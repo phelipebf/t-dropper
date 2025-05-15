@@ -21,9 +21,9 @@ export default function Header() {
                     <FaGithub className="h-5 w-5 text-white" />
                 </a>
             </div>
-            {/* <h3 className="italic text-left hidden text-zinc-500 lg:block">
-                The most gas efficient airdrop contract on earth, built in huff 🐎
-            </h3> */}
+            <h3 className="italic text-left hidden text-zinc-500 lg:block">
+                Airdrop tokens to anyone in a glance
+            </h3>
             <div className="flex items-center gap-4">
                 <ConnectButton />
             </div>
